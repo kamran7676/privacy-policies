@@ -1,5 +1,7 @@
 # Privacy Policy — ContextHop
 
+_Last updated: November 12, 2026_
+
 ContextHop works on your machine.
 
 - **Your conversations stay in your browser.** The extension reads the chat on
